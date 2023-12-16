@@ -13,23 +13,31 @@ This repository houses a diverse set of projects, each focused on different data
 
 1. **UNEMPLOYMENT IN INDIA**
    - Explore the impact of Covid-19 on unemployment rates in India.
-   - [Dataset: Unemployment Dataset](insert_link_here)
+   - [Unemployment_Rate_upto_11_2020.csv](https://github.com/hiranvjoseph/Cognorise---Virtual-Internship-Projects-/files/13693977/Unemployment_Rate_upto_11_2020.csv)
+
+   - [Unemployment in India.csv](https://github.com/hiranvjoseph/Cognorise---Virtual-Internship-Projects-/files/13693978/Unemployment.in.India.csv)
+
+
+   - [Unemployment_combined.csv](https://github.com/hiranvjoseph/Cognorise---Virtual-Internship-Projects-/files/13693975/Unemployment_combined.csv)
+
 
 2. **80 CEREALS**
    - Dive into an explained data analysis of a dataset containing information about 80 cereals.
-   - [Dataset: 80 Cereals Dataset](insert_link_here)
+   - [Dataset: 80 Cereals Dataset](https://github.com/hiranvjoseph/Cognorise---Virtual-Internship-Projects-/files/13693994/cereal.csv)
 
 3. **CUSTOMER PERSONALITY ANALYSIS**
    - Conduct a detailed analysis of a company's ideal customers.
-   - [Dataset: Customer Personality Dataset](insert_link_here)
+   - [Dataset: Customer Personality Dataset](https://github.com/hiranvjoseph/Cognorise---Virtual-Internship-Projects-/files/13694004/marketing_campaign.csv)
 
 4. **RED WINE QUALITY**
    - Explore datasets related to red and white variants of Portuguese "Vinho Verde" wine.
-   - [Dataset: Red Wine Quality Dataset](insert_link_here)
+   - [Dataset: Red Wine Quality Dataset](https://github.com/hiranvjoseph/Cognorise---Virtual-Internship-Projects-/files/13694007/winequality-red.csv)
+
 
 5. **EMPLOYEE SALARIES FOR DIFFERENT JOB ROLES**
    - Explore compensation and job roles of employees across various industries and regions.
-   - [Dataset: Employee Salaries Dataset](insert_link_here)
+   - [Dataset: Employee Salaries Dataset](https://github.com/hiranvjoseph/Cognorise---Virtual-Internship-Projects-/files/13694008/ds_salaries.csv)
+
 
 ## How to Use
 
